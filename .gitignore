@@ -1,0 +1,9 @@
+# Only track the California demo and its documentation.
+/*
+!/.gitignore
+!/README.md
+!/demo/
+
+/demo/*
+!/demo/aggregation.py
+!/demo/california_pm25_2024.ipynb
